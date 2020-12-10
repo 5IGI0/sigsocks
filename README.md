@@ -4,6 +4,7 @@ SIGSocks is a socks5 proxy implemented in **C**.
 
 - [Build from source](#Build)
 - [Usage](#Usage)
+- [Credits](#Credits)
 
 
 ## Build
@@ -21,3 +22,7 @@ run: ``./sigsocks``
 run in verbose mode: ``./sigsocks -v`` 
 
 listen on specific port: ``SOCKS_PORT=<port> ./sigsocks``
+
+### Credits
+
+[ox223252](https://github.com/ox223252) - [logger](https://github.com/ox223252/log)
